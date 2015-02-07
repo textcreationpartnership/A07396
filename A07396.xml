@@ -145,10 +145,13 @@ vnder heauen.</p>
             <p>Imprinted at Antwerp by Iohn Laet,
 at the signe of the Rape: with
 Priuilege. Anno. 1565.</p>
-            <figure>
-               <p>E. R.</p>
-               <p>God saue the Quene.</p>
-            </figure>
+            <p>
+               <pb facs="tcp:1516:2"/>
+               <figure>
+                  <p>E. R.</p>
+                  <p>God saue the Quene.</p>
+               </figure>
+            </p>
          </div>
          <div type="dedication">
             <pb facs="tcp:1516:2"/>
@@ -5045,12 +5048,36 @@ that time raygned <hi>Sabereth</hi> Elberts nefue by his syster <hi>Ricula.</hi>
 Although this Sabereth was himselfe vnder the dominion of
 the same Elbert, who was (as I haue before saide) king ouer all
 the Englishmen, euen vnto the end of the fludde Humber.</p>
-               <figure>
-                  <pb n="52" facs="tcp:1516:66"/>
-                  <p>Kinge El<g ref="char:EOLhyphen"/>bert the first Chri<g ref="char:EOLhyphen"/>sten king of En<g ref="char:EOLhyphen"/>glishmen, buildeth S. Poules in Londo<g ref="char:cmbAbbrStroke">̄</g> and S. An <gap reason="illegible" resp="#TECH" extent="1 letter">
-                        <desc>•</desc>
-                     </gap>rewes in Rochester for the ij. first bis<g ref="char:EOLhyphen"/>shops of both tho<g ref="char:EOLhyphen"/>se Secs, Mellitus and Iustꝰ.</p>
-               </figure>
+               <p>Now as sone as this prouince by the preaching of Mellite had
+receaued the worde of trueth,<note place="margin">Mellite the first bishop of London. S. Paules church.</note> king Elbert builded in the citie
+of London S. Powles churche, where Mellite, and his succes<g ref="char:EOLhyphen"/>sours
+euer after should haue their bishops see. The other, which
+was Iustus, Austin ordeined bishop in kent, in a citie of Caun<g ref="char:EOLhyphen"/>terbury
+diocesse, which the Englishmen called Rotchester, by
+the name of the chiefest citisen, or ruler thereof.<note place="margin">Iustus the first Bis<g ref="char:EOLhyphen"/>shop of Roche<g ref="char:EOLhyphen"/>ster.</note> Which is in
+distaunce from Caunterbury towne aboute 24. miles westwar<g ref="char:EOLhyphen"/>de.
+In the which citie king Elbert builded S. Andrew the apo<g ref="char:EOLhyphen"/>stles
+churche, and gaue manie goodly and diuers giftes to the
+bishops of bothe these churches, that is, S. Paules in London,
+and S. Andrews at Rotchester. Like as he gaue also others to the
+bishop of Caunterbury. and moreouer he added territories and
+possessions therto, for the better maintaining of them that ly<g ref="char:EOLhyphen"/>ued
+with these bishops.<note place="margin">The de<g ref="char:EOLhyphen"/>ath of S. Augustin our apo<g ref="char:EOLhyphen"/>stle.</note> After this the derely beloued ma<g ref="char:cmbAbbrStroke">̄</g> of god
+holie father Austin died<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and his bodie was laied by the church
+of the blessed Apostles Peter and Paule, (of which church I
+haue made mention before) without the dore therof, bycause it
+was not yet finished, nor dedicated. But as sone as the churche
+was dedicated, his body was brought in, and decently buried
+in the north porche of the same churche.
+<figure>
+                     <pb n="52" facs="tcp:1516:66"/>
+                     <p>Kinge El<g ref="char:EOLhyphen"/>bert the first Chri<g ref="char:EOLhyphen"/>sten king of En<g ref="char:EOLhyphen"/>glishmen, buildeth S. Poules in Londo<g ref="char:cmbAbbrStroke">̄</g> and S. An <gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rewes in Rochester for the ij. first bis<g ref="char:EOLhyphen"/>shops of both tho<g ref="char:EOLhyphen"/>se Secs, Mellitus and Iustꝰ.</p>
+                  </figure>
+               </p>
                <p>Wher also wer interred the bodies of all the Archebishops fo<g ref="char:EOLhyphen"/>lowing,
 except ij. only, that is, Theodore and Berthwold. Who<g ref="char:EOLhyphen"/>se
 bodies were layed in the church it selfe,<note place="margin">Memories of soules departed.</note> bycause the porche
